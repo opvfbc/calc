@@ -1,0 +1,16 @@
+body {
+    background: #fbc8c8;
+    }
+    input {
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    }
+    button {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    }
+    p {
+    font-size: 50px;
+    }
